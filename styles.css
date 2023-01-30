@@ -31,7 +31,7 @@ padding: 0;
   
 
 .home-pix {
-    background-image: url("/Users/victorotene/Documents/dev/ VIc portfoilo/pix/techwoman.jpg");
+    background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1675071070/techwoman_k3m55h.jpg");
     color: white;
     height:100vh;
     background-position: center;
