@@ -17,6 +17,10 @@ padding: 0;
   justify-self: center;
   justify-items: center;
 }
+.linkremover{
+  text-decoration: none;
+
+}
  .project {
   text-decoration: none;
   /* text-decoration-style: none; */
@@ -44,17 +48,17 @@ padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
 
-  background-image: url("/Users/victorotene/Documents/dev/ VIc portfoilo/pix/gsir4.png");
+  background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1676328385/my%20pix/gsir4_dv3cjw.png");
 }
 
 .econs-bg{
-  background-image: url("/Users/victorotene/Documents/dev/ VIc portfoilo/pix/econs2.jpg");
+  background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1676328604/my%20pix/econs2_uxoqwa.jpg");
 }
 .white-bg{
   background-color: white;
 }
 .footer-pix{
-    background-image: url("/Users/victorotene/Documents/dev/ VIc portfoilo/pix/robot.jpg");
+    background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1676328612/my%20pix/robot_fqpzj9.jpg");
     color:darkseagreen;
 }
 
@@ -122,7 +126,7 @@ padding: 0;
 
   @media screen and (max-width: 720px) {
     .home-pix {
-      background-image: url("/Users/victorotene/Documents/dev/ VIc portfoilo/pix/gsir4.png");
+      background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1676328385/my%20pix/gsir4_dv3cjw.png");
       color:#bb0000;
     }
     .postioning{
