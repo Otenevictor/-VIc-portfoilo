@@ -127,7 +127,12 @@ padding: 0;
   @media screen and (max-width: 720px) {
     .home-pix {
       background-image: url("https://res.cloudinary.com/de5sm2jjl/image/upload/v1676328385/my%20pix/gsir4_dv3cjw.png");
-      color:#bb0000;
+      /* color:#bb0000; */
+      color: darkcyan;
+    }
+    .brighting{
+      color: blue;
+      background-color: white ;
     }
     .postioning{
       display:flex;
