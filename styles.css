@@ -130,9 +130,12 @@ padding: 0;
       color:#bb0000;
     }
     .postioning{
-        display:flex;
-         justify-content: center;
-         justify-items: center;
-      }
-    
+      display:flex;
+       justify-content: center;
+       justify-items: center;
+    }
+    .smallscreen{
+/*       background-color: white; */
+    opacity: 1;
+    }
   }
